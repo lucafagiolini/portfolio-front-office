@@ -8,7 +8,7 @@ defineProps({
 const count = ref(0)
 </script>
 
-<template>
+<template data-bs-theme="dark">
   <h1>{{ msg }}</h1>
 
   <div class="card">
